@@ -1,0 +1,15 @@
+[package]
+name = "solana_rust_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15.0"
+mpl-core = "0.8.0"
+mpl-token-metadata = "4.1.2"
+serde_json = "1.0.125"
+solana-client = "2.0.5"
+solana-program = "2.0.5"
+solana-sdk = "2.0.5"
+spl-associated-token-account = "4.0.0"
+spl-token = "6.0.0"
